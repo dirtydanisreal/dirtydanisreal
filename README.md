@@ -10,6 +10,12 @@
   This is a web based implementation that runs on Vue 3 and populates a table on runtime by parsing information from a separate Github repo.
 
   [Here](https://github.com/dirtydanisreal/dirtydanisreal.github.io)
+
+
+### Office Scripts
+  Custom Office Scripts I use on Excel Worksheets at work.
+
+  [Here](https://github.com/dirtydanisreal/OfficeScripts)
 <!--
 **dirtydanisreal/dirtydanisreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
