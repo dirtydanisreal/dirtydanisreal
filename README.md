@@ -1,21 +1,15 @@
 ## MAX HALCOMB
 
-### phoneTool  
+### [phoneTool](https://github.com/dirtydanisreal/phoneTool)  
   - This is a C# program that displays a list view that is populated from a csv file. It is searchable and is lightweight.
 
-  [Here](https://github.com/dirtydanisreal/phoneTool)
-
-
-### phoneTool Website
+### [phoneTool Website](https://github.com/dirtydanisreal/dirtydanisreal.github.io)
   - This is a web based implementation that runs on Vue 3 and populates a table on runtime by parsing information from a separate Github repo.
 
-  [Here](https://github.com/dirtydanisreal/dirtydanisreal.github.io)
-
-
-### Office Scripts
+### [Office Scripts](https://github.com/dirtydanisreal/OfficeScripts)
   - Custom Office Scripts I use on Excel Worksheets at work.
 
-  [Here](https://github.com/dirtydanisreal/OfficeScripts)
+
 
 
 I worked as a Texture Artist on [Quadrant](https://store.steampowered.com/app/365320/Quadrant/)
