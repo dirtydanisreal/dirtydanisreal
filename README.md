@@ -20,6 +20,15 @@
 
 I worked as a Texture Artist on [Quadrant](https://store.steampowered.com/app/365320/Quadrant/)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365320/header.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365320/header.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365320/header.jpg?t=1484599110">
+</picture>
+
+
+
 Here are some photos of the assets I designed for the game [Here](https://flic.kr/s/aHBqjC5NFR)
 
 I also studied Graphic Design and here are some of my work from those classes 
