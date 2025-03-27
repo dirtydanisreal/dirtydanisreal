@@ -9,6 +9,9 @@
 ### [Office Scripts](https://github.com/dirtydanisreal/OfficeScripts)
   - Custom Office Scripts I use on Excel Worksheets at work.
 
+### [VBAMax](https://github.com/dirtydanisreal/VBAmax)
+  - Custom VBA Scripts I use on Excel Worksheets at work.
+
 
 
 
