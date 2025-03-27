@@ -28,9 +28,7 @@ I worked as a Texture Artist on [Quadrant](https://store.steampowered.com/app/36
 
 Here are some photos of the assets I designed for the game [Here](https://flic.kr/s/aHBqjC5NFR)
 
-I also studied Graphic Design and here are some of my work from those classes 
-
-[Here](https://flic.kr/s/aHBqjC5NFL)
+I also studied Graphic Design and here are some of my work from those classes [Here](https://flic.kr/s/aHBqjC5NFL)
 <!--
 **dirtydanisreal/dirtydanisreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
